@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
-hash = "bb02176f5cd1555380702e43be61f19ec3f117069f605d76abef808456ccd81b"
+hash = "33ed1eae640faefcce211b473e00db77978c5a267f0b6292f9b3140394f51e69"
 metafile = true
 
 [[files]]
