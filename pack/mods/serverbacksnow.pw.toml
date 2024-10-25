@@ -1,0 +1,13 @@
+name = "Server Backpacks!"
+filename = "serverbackpacks-1.1.6.2+1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/E7IsBILg/versions/KQZR8HRy/serverbackpacks-1.1.6.2%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "be1a39fc9f7a5b7ec8ee89d741e2e7646b65f34993f0071a1925d4e884fa33a237122abb7a986be8eda7c97c8c585172944811a8f8554b188dc4f21ef278c0c5"
+
+[update]
+[update.modrinth]
+mod-id = "E7IsBILg"
+version = "KQZR8HRy"

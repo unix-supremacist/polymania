@@ -1,0 +1,13 @@
+name = "Cesium Storage Format"
+filename = "cesium-fabric+1.21.3-0.2.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2fspKUWt/versions/f9hyeDwQ/cesium-fabric%2B1.21.3-0.2.5.jar"
+hash-format = "sha512"
+hash = "58d6badbc8952c22457b8f35f564e11e2009f12a33280f1d929bc314010527f18f64d54b113a728db54892dd8ddfca827169a902ae6ea56d30b8607e79eb43c0"
+
+[update]
+[update.modrinth]
+mod-id = "2fspKUWt"
+version = "f9hyeDwQ"

@@ -1,0 +1,13 @@
+name = "Mob Armor Trims"
+filename = "mob_armor_trims-2.4.3+1.21.2-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hHVaPgFK/versions/q2yoTzIy/mob_armor_trims-2.4.3%2B1.21.2-fabric.jar"
+hash-format = "sha512"
+hash = "2f85f54004d101a47d25458eb4701eff7cc0e437dae6b3d302c6f16b7c7829c7f6d58713e6e886bd6551bda735f1529cb3607dd52e01717807fc3f4de85e3b35"
+
+[update]
+[update.modrinth]
+mod-id = "hHVaPgFK"
+version = "q2yoTzIy"

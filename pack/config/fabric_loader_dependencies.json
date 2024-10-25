@@ -6,6 +6,11 @@
 				"minecraft": "IGNORED"
 			  }
 		},
+		"do_a_barrel_roll": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
 		"forgeconfigapiport": {
 			"-depends": {
 				"minecraft": "IGNORED"

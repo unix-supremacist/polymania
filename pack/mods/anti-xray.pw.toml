@@ -1,0 +1,13 @@
+name = "AntiXray"
+filename = "antixray-fabric-1.4.6+1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/ccmxUAZ2/antixray-fabric-1.4.6%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "dbb26fe97100c346dec036e580d7bf52558f99dec93648368338a105248f4177bd61b9eb11ababde981212e63fa72cf8e67b1365e0d140c965c85c338b5e8f03"
+
+[update]
+[update.modrinth]
+mod-id = "sml2FMaA"
+version = "ccmxUAZ2"
