@@ -305,8 +305,9 @@ hash = "dfdf515f47f9871e76db2612dc67a0c7789b4053d4fc582cec5a8000baf53822"
 metafile = true
 
 [[files]]
-file = "mods/glide-away.pw.toml.disabled"
-hash = "60f6ce42484aad0448ce46b023cbea032ea7f83e216e5c70e5c547f02d4b3d4e"
+file = "mods/glide-away.pw.toml"
+hash = "cf0711e98a769c5c0b05ce336894c248c54b9645ff3d073595584d9f880c0891"
+metafile = true
 
 [[files]]
 file = "mods/gofish.pw.toml.disabled"
