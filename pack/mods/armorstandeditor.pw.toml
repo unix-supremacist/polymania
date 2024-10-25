@@ -1,13 +1,13 @@
 name = "Armor Stand Editor"
-filename = "armor-stand-editor-2.5.0+1.21-rc1.jar"
+filename = "armor-stand-editor-2.6.0+1.21.2-rc1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ef9ZREBZ/versions/lp2JxZ4N/armor-stand-editor-2.5.0%2B1.21-rc1.jar"
-hash-format = "sha1"
-hash = "92cef857227af00049e90ef9938662278570fc99"
+url = "https://cdn.modrinth.com/data/Ef9ZREBZ/versions/ydEKVfE3/armor-stand-editor-2.6.0%2B1.21.2-rc1.jar"
+hash-format = "sha512"
+hash = "deed9acc4b42ddf7885c42b29b89f6d19fd8a27fbcce61b57ddeeec38c06dbeb447fd63416f7aa39458f9ef75f79cda3fb0e4fdcd926ba10127942ebb371355d"
 
 [update]
 [update.modrinth]
 mod-id = "Ef9ZREBZ"
-version = "lp2JxZ4N"
+version = "ydEKVfE3"
