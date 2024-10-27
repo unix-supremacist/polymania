@@ -1,11 +1,11 @@
 name = "Mod Viewer"
 filename = "modviewer-1.9.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/wGOr2JgV/versions/9Iw7koI2/modviewer-1.9.0.jar"
-hash-format = "sha1"
-hash = "6a0271ffe5da160f6de43d2fcb4277dbd2d7dab0"
+hash-format = "sha512"
+hash = "a79655ea88eb9187b694da9183d8c691fc21d704b0bbe42376d1da1c370660ccf2e236169815f42a8aca02ed3e7ddf827b2a891a5b70dfec5ef4df1e74363a06"
 
 [update]
 [update.modrinth]

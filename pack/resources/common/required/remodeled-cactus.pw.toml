@@ -1,0 +1,13 @@
+name = "Remodeled Cactus"
+filename = "remodeledcactus.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/phv4ey91/versions/xrrGXgmK/remodeledcactus.zip"
+hash-format = "sha512"
+hash = "40cce187df687dd0374e8824bc64edba2c424fcc6de3adb4f709fc42c2959578598c5b589c5d292deb524d4ccbfaf76b67694b360fcd79bea07f05a0571bb8a6"
+
+[update]
+[update.modrinth]
+mod-id = "phv4ey91"
+version = "xrrGXgmK"

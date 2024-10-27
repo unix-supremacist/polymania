@@ -1,12 +1,30 @@
 {
-  "markResourcePackAsRequiredByDefault": true,
+  "markResourcePackAsRequiredByDefault": false,
   "include_mod_assets": [
 	"mr_banner_text"
   ],
   "include_zips": [
     "world/resources.zip",
     "polymer/extra/Unsanded-1.1.1-custom.zip",
+    "resources/common/required/3D Default 1.21.2 v1.11.0.zip",
+    "resources/common/required/3D Mace!.zip",
+    "resources/common/required/Better Enchanting Table v1.1.zip",
+    "resources/common/required/Better Lily Pads V1.0.zip",
+    "resources/common/required/EnderEyes_1.21_v3.1.zip",
+    "resources/common/required/CCB.zip",
+    "resources/common/required/centered_crosshair_fix.zip",
+    "resources/common/required/Chat Reporting Helper.zip",
+    "resources/common/required/Connected Paths v1.2.zip",
+    "resources/common/required/GoldenCrowns_1.8.9.zip",
     "resources/common/required/DarkPaintings.zip",
+    "resources/common/required/emissive-ores-normal-v1.1.3.zip",
+    "resources/common/required/Fire_Rekindled.zip",
+    "resources/common/required/Fogulous_v1.0.3.zip",
+    "resources/common/required/Less-Rain.zip",
+    "resources/common/required/MushroomsPlus_1.21_v1.4.zip",
+    "resources/common/required/remodeledcactus.zip",
+    "resources/common/required/prismarine.zip",
+    "resources/common/required/Smooth Stone Slab Fix.zip",
     "resources/common/required/patboxtranslations.zip"
   ],
   "resource_pack_location": "polymer/resource_pack.zip"

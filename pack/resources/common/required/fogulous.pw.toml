@@ -1,0 +1,13 @@
+name = "Fogulous"
+filename = "Fogulous_v1.0.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K32Giqwy/versions/tMQLYBql/Fogulous_v1.0.3.zip"
+hash-format = "sha512"
+hash = "fe5aab3b0bae3e4f4dd5a4b05639ca0dbb43b23215f2f7929cc2dc55920995b820d2f875fa8fabcc93b46e2bd12c0af6b4ce3fc56a178dd18eea3edd5e2b4711"
+
+[update]
+[update.modrinth]
+mod-id = "K32Giqwy"
+version = "tMQLYBql"

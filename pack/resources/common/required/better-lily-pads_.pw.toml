@@ -1,0 +1,13 @@
+name = "Better Lily Pads"
+filename = "Better Lily Pads V1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/64TlNiYG/versions/cuNotgde/Better%20Lily%20Pads%20V1.0.zip"
+hash-format = "sha512"
+hash = "25d2d69deb8ba3f7913bf42854e7fb5d773b9c43ea2d61229cb5730ba07c5f1b9071ba8cbb6e4d8e2754ece8e2fc16ff2b6b12f639ccf7f2d22f1ca087eeeb1c"
+
+[update]
+[update.modrinth]
+mod-id = "64TlNiYG"
+version = "cuNotgde"

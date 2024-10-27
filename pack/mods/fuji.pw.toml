@@ -1,0 +1,13 @@
+name = "Fuji (Essentials)"
+filename = "fuji-4.1.7-release-8fd918a71f.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1TowMm2v/versions/9p5BoyHx/fuji-4.1.7-release-8fd918a71f.jar"
+hash-format = "sha512"
+hash = "e636ed39608ecb29bf19ae45b32dac978f96478852b578237f354579e6a80115025a8f55642122d6ac935d07b03bf071889a1aa4af916bd739f67a376b07abc5"
+
+[update]
+[update.modrinth]
+mod-id = "1TowMm2v"
+version = "9p5BoyHx"

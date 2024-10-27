@@ -1,0 +1,13 @@
+name = "Seamless Prismarine Bricks"
+filename = "prismarine.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4t1WQUdt/versions/PQlU5bJ4/prismarine.zip"
+hash-format = "sha512"
+hash = "39e02fca7198ec27f27993828fce5fe81d4e2fd565b2ccc4cd144bfa302039f5c3ab6a0de6c0e236a9af7519a1ae21d8ff17889459ec9a9a85ec1886812b72f7"
+
+[update]
+[update.modrinth]
+mod-id = "4t1WQUdt"
+version = "PQlU5bJ4"

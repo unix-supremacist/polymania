@@ -1,0 +1,13 @@
+name = "Centered Command Blocks"
+filename = "CCB.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cwF5w5dc/versions/UPdHBUkL/CCB.zip"
+hash-format = "sha512"
+hash = "3aca19f6b6ecfafc0c123ac8d3c85e9e1d5a8d448ac7f104533d6b11fb99f46dd3a0c0f81d216b1a6a3a6d159b5bdd3adbccb066173ad062aaebc0319c3b5958"
+
+[update]
+[update.modrinth]
+mod-id = "cwF5w5dc"
+version = "UPdHBUkL"

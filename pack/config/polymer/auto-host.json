@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "required": true,
+  "enabled": false,
+  "required": false,
   "external_resource_packs": [
     
   ]

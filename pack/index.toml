@@ -38,7 +38,7 @@ hash = "4260e305f03f59f16d59ebd2fca78d255ad2e5aa0a63c8d61ff17b6104d2e7df"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "4c57595fc5117f8336cbcc8f1317b9aaa88083483c93dcfaffa1cad351038f30"
+hash = "64d073938161681c222d12e70d1f2a0d93f745f77fa666c6a1a819903c0a59f9"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "55d83a46c1ffe785b332e6e705254792057eb431fbb74d10087d39251feb52fe"
+hash = "ae4bbb91a1c7506d58a7d1f7dce095358bc84933c6942e9f462d1da0453d80ef"
 metafile = true
 
 [[files]]
@@ -199,6 +199,11 @@ file = "mods/clumps.pw.toml.disabled"
 hash = "f0ec653fdb2ea3c2546cbe327d1d184256548be6fe9e459885eb0f9459153dae"
 
 [[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "cae5a2115a7bdf52e8d4cbbcd03486a1e71d8cb04ba9940e8852849d146c9da1"
+metafile = true
+
+[[files]]
 file = "mods/crashexploitfixer.pw.toml.disabled"
 hash = "58ea3d4b0f3531bbe43849b0365cf8b8390128b5f8f99fb9bb8b7a8ce9c0e323"
 
@@ -272,7 +277,7 @@ hash = "dfc60497327cf49f23dcab6369eb0a746570e7607329336341ff3ed0228f0004"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "91794dc15db23a2adc3f5992bbba41231d06f970c22f8fa3bca0ce2492cba9ef"
+hash = "74a3dc06ef31f258f4eb6e3b053775bfe466f6b9a1bc9ae1ae333dd2a863279a"
 metafile = true
 
 [[files]]
@@ -305,6 +310,11 @@ hash = "dfdf515f47f9871e76db2612dc67a0c7789b4053d4fc582cec5a8000baf53822"
 metafile = true
 
 [[files]]
+file = "mods/fuji.pw.toml"
+hash = "7bdcf482c7b136b9b0d4d7258d798847370a6f0760c03aa2926db21a65725bc2"
+metafile = true
+
+[[files]]
 file = "mods/glide-away.pw.toml"
 hash = "cf0711e98a769c5c0b05ce336894c248c54b9645ff3d073595584d9f880c0891"
 metafile = true
@@ -316,6 +326,11 @@ hash = "7856aa803675326413ba0f9a297866479f30c94d32f2a640a578868372cd7f67"
 [[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
 hash = "298bef5693c1b73c19ae920ed1d0bd14f855eb404c2aaad37048c1c582a677ea"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "bb831e6e9b6a572a7ebccaefff6358cdba9053fc5a647974e4d5df85be0f10c4"
 metafile = true
 
 [[files]]
@@ -341,7 +356,12 @@ hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "03075a32803d3cd0e574a043156599231d7d01661179b1c4c1a527ea7a1c539d"
+hash = "ae0579ed9736b4b111df68a536c917fdc83a1c0b266d80f0a4c59eeb4c8e329b"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
@@ -351,12 +371,16 @@ metafile = true
 
 [[files]]
 file = "mods/mod-viewer.pw.toml"
-hash = "be3a7ec0d0030f19d2534b978326a3913b533e605c5bc446cffca45647bba141"
+hash = "12c53188aee96cd4ae14e3aef36f20ea293872776a370e57dbc7314f5c82fe7c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-fabric-5.19.5-beta.10+mc1.21.3.91ff.jar"
+hash = "da51116226f06cf5ed1fd9cfced7a8dc962511ac1f1337f711e91d07124df11c"
+
+[[files]]
 file = "mods/moonrise-opt.pw.toml"
-hash = "475f25cff6011fd644d00a75c47fc3a2a25095ca62329cd50793bb35e84dc2f5"
+hash = "55141233d151816495e18ece8c17bc2bb7fb60b59437f36330a712ff2e235af3"
 metafile = true
 
 [[files]]
@@ -372,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/nightosphere.pw.toml"
 hash = "d12c6f3ab2ee6f6c1a0469e7dfa9322de46cf0edf0a4dddeeeb4a30706050a8d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d0a050b2a5fbb6234f8555e9c7de9b5afd7d64cb022484f44bb96546e1350ac0"
 metafile = true
 
 [[files]]
@@ -398,8 +427,9 @@ file = "mods/polyconfig-0.3.8.jar.disabled"
 hash = "fc36f075b5dacb028c9a45a190bb764c65c845191bddef652b61cac6d5b154ac"
 
 [[files]]
-file = "mods/polydecorations.pw.toml.disabled"
-hash = "cdda95d728182cfe9840ae776165ee849636a80d063f7d3685222f46aa75b36c"
+file = "mods/polydecorations.pw.toml"
+hash = "a782b261847f39275824dd070cc96e0058977ed6f845cde83c2fb7f5bf45a9f1"
+metafile = true
 
 [[files]]
 file = "mods/polydex-bridge.pw.toml.disabled"
@@ -416,7 +446,7 @@ hash = "f9ef5cdef369fa02c266f0139427a6cc0d25b4e9ad180e23dc03c60484a71729"
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "9cab658ecae1b1832a742e5f52a6098c27ddec6dbaa8c310b932dbd1453cd74b"
+hash = "648b8d1020f9467b3afe2dae5020fe6b3ea880a350053f43f27b5ebe9b3890af"
 metafile = true
 
 [[files]]
@@ -457,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "fec67aa964d71cdab5179ec4422eebea2c436700f67b700d6e067c59141545d0"
+hash = "ad52604c47cb3dca7bcc73ab94b8173b19b8f0859a885d634dd52f152aa9f3bb"
 metafile = true
 
 [[files]]
@@ -6283,8 +6313,83 @@ file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_lea
 hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
 
 [[files]]
+file = "resources/common/required/3d-default.pw.toml"
+hash = "0cf444a3ac28ca3de0cc53bc2ee884a4bf03ea70089da6d293fa80d2c35e3f5f"
+metafile = true
+
+[[files]]
+file = "resources/common/required/3d-mace!.pw.toml"
+hash = "36903edd0612d780dba9e169ff7e608afbd2517df46cf0e934c30fc5e0f0eb39"
+metafile = true
+
+[[files]]
 file = "resources/common/required/DarkPaintings.zip"
 hash = "f35e20fdb4348d4d4b2088a7ee26c05b059526477d478c9246a95a8791defdf7"
+
+[[files]]
+file = "resources/common/required/better-enchanting-table.pw.toml"
+hash = "32b5e3d9d3ba0346138b88bddafce15252809b15610edef411996086b0f4d3ac"
+metafile = true
+
+[[files]]
+file = "resources/common/required/better-lily-pads_.pw.toml"
+hash = "ea251b189ccd9639c2e2a07ad0c35bcf0e2427dabf09985e5add142ad3698636"
+metafile = true
+
+[[files]]
+file = "resources/common/required/blinking-ender-eyes.pw.toml"
+hash = "377c8c2b330df318d081509782979a213b4e81576964c23255446e9e0e1f455b"
+metafile = true
+
+[[files]]
+file = "resources/common/required/ccb.pw.toml"
+hash = "e6bb92487eda4c882e7539cc25b654d473ae28e7b8eba88e82d2e1dd2baa1ec1"
+metafile = true
+
+[[files]]
+file = "resources/common/required/centered-crosshair-fix.pw.toml"
+hash = "1308df1eddf769a77fcd3a23d62dfe311d0ff067082057ebb862a33f6bcf9f05"
+metafile = true
+
+[[files]]
+file = "resources/common/required/chat-reporting-helper.pw.toml"
+hash = "6ce693d67d22a11da1ca8cbea5e57c9ae0fcafff8172bf56de2831d39478b1ff"
+metafile = true
+
+[[files]]
+file = "resources/common/required/connected-paths.pw.toml"
+hash = "de78fe9d69d983c8042163311df8aabdeec36b0a2bee7c785f618731bc885f76"
+metafile = true
+
+[[files]]
+file = "resources/common/required/crowns.pw.toml"
+hash = "3be5f92cf7aae951f44ad3b58ad0c45b5d22dd51472a899c985291a737159de2"
+metafile = true
+
+[[files]]
+file = "resources/common/required/emissive-ores.pw.toml"
+hash = "5e51a372a8809b4a212ad838c2db092ed5c589abfba0bce0b5a2368e50cef754"
+metafile = true
+
+[[files]]
+file = "resources/common/required/fire-rekindled.pw.toml"
+hash = "881782b51aabc0ae8b296d3403d1822f8e9746d6aad780ef85451d396dc1ddf6"
+metafile = true
+
+[[files]]
+file = "resources/common/required/fogulous.pw.toml"
+hash = "727b56d1cc917f6bbe65d45783db67b124946a6709b196a3900cc64f04fcb20f"
+metafile = true
+
+[[files]]
+file = "resources/common/required/less-rain.pw.toml"
+hash = "762ef1f885fad3485b6440df1c7e932517adecf126e0a2caa410118d254ac7ee"
+metafile = true
+
+[[files]]
+file = "resources/common/required/mushrooms-plus.pw.toml"
+hash = "da9791c74153587e3fb41abc6f026899cac054f5d19cd7e337b4ce03ea4c2d5c"
+metafile = true
 
 [[files]]
 file = "resources/common/required/polymania/data/illagerexp/advancement/adventure/find_mansion.json"
@@ -6477,6 +6582,21 @@ hash = "7ef5fded6e8d3d9ae7e0d21560d2669129a8688306a76cdb425f56d3cfdbc496"
 [[files]]
 file = "resources/common/required/polymania/pack.mcmeta"
 hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
+
+[[files]]
+file = "resources/common/required/remodeled-cactus.pw.toml"
+hash = "dd6033a0e9065f34113eacb8edaec3534bc667b21f9e79dc9b77eee455ef5f9c"
+metafile = true
+
+[[files]]
+file = "resources/common/required/seamless-prismarine-bricks.pw.toml"
+hash = "843670f74359fae943e5cba1e9a641dae37dae29d77f5ae3a7e5b4a1fe6e3d67"
+metafile = true
+
+[[files]]
+file = "resources/common/required/smooth-stone-slab-fix.pw.toml"
+hash = "91a1e5ffe15e1da7f91b5ac7edc183829d8e30de68fa3a43c308c7983c4f1ee8"
+metafile = true
 
 [[files]]
 file = "resources/common/required/translations-for-patboxs-mods.pw.toml"

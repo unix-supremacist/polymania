@@ -1,0 +1,13 @@
+name = "Less Rain"
+filename = "Less-Rain.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FphqwtWf/versions/8WyZDOLl/Less-Rain.zip"
+hash-format = "sha512"
+hash = "d32c3618928362f9dd9a88c7c008156ddf85a05f9c509c380d520c233fcead625e2b77f64d0cd2d1ce2971567b87839fc37a0de1471d8f29c9e8507010bdcbdc"
+
+[update]
+[update.modrinth]
+mod-id = "FphqwtWf"
+version = "8WyZDOLl"

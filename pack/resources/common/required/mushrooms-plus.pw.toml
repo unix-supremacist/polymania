@@ -1,0 +1,13 @@
+name = "Mushrooms Plus"
+filename = "MushroomsPlus_1.21_v1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mpL9oaYU/versions/E9CXh4fh/MushroomsPlus_1.21_v1.4.zip"
+hash-format = "sha512"
+hash = "31d15fbec475325d6b59f23132adbf427bba03bb42e4b4bddca8c4f77f5ba1fed27dd8009163918f51d42c52fa1f2ca7b093ae1b9ed9fca1ccca64d8a701d422"
+
+[update]
+[update.modrinth]
+mod-id = "mpL9oaYU"
+version = "E9CXh4fh"

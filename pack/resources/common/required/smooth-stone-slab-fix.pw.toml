@@ -1,0 +1,13 @@
+name = "Smooth Stone Slab Fix"
+filename = "Smooth Stone Slab Fix.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QoUSM3q9/versions/gcSrmfpQ/Smooth%20Stone%20Slab%20Fix.zip"
+hash-format = "sha512"
+hash = "88dc16e8860308e3c080f3ea9bd468b2511fdb816b9bb58e489f02395a6de0089fe9b27b35373e27ba9b8c29fbe15565ac02d9ead5dc805556ef0cded38e5eec"
+
+[update]
+[update.modrinth]
+mod-id = "QoUSM3q9"
+version = "gcSrmfpQ"

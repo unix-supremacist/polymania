@@ -1,0 +1,13 @@
+name = "Better Enchanting Table"
+filename = "Better Enchanting Table v1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d9PIjVLE/versions/Sx5tg5yi/Better%20Enchanting%20Table%20v1.1.zip"
+hash-format = "sha512"
+hash = "e03adc04f3b1384c6cfa158ff7b655f374a8535f0eebfb55120166bd02094fe5855c4dccc7c1264af96d7995fc372549c54fcc67c6aa8b180ac51f0f5be0f87d"
+
+[update]
+[update.modrinth]
+mod-id = "d9PIjVLE"
+version = "Sx5tg5yi"

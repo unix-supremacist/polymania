@@ -1,0 +1,13 @@
+name = "3D Default"
+filename = "3D Default 1.21.2 v1.11.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5aPp18Lx/versions/1xh3urYS/3D%20Default%201.21.2%20v1.11.0.zip"
+hash-format = "sha512"
+hash = "f27e2a878358613e86ade7de512dbd9e37a22ad842dbd7df01eae044eb772e1818fcaf24491f19ff21676c237bc5709c7860881f06c9b64a43ff77fd47f4d0d0"
+
+[update]
+[update.modrinth]
+mod-id = "5aPp18Lx"
+version = "1xh3urYS"

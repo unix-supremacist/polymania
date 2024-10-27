@@ -1,0 +1,14 @@
+name = "Golden Crowns"
+filename = "GoldenCrowns_1.8.9.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/Mf7I6EQx/versions/w99UdOkL/GoldenCrowns_1.8.9.zip"
+hash-format = "sha512"
+hash = "478dd581f32c33debea12e2494aedaf83a47e805d2533723f898a38470382045113ddd351bce4e2057018394e88706804ddbfdf5a87a83778731aeae21d8b998"
+
+[update]
+[update.modrinth]
+mod-id = "Mf7I6EQx"
+version = "w99UdOkL"
